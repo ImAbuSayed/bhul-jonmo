@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bhul-jonmo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bhul Jonmo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhul-jonmo/) |
+| **Get License** | [Secure Licensing Rights for Bhul Jonmo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhul-jonmo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ভুল জন্মের এই শহরে আমি খুঁজেছি তোমায়
+> অন্ধকারে মিশে থাকা এক হারানো আশায়
+> বুকের ভেতর জমে আছে কত না বলা কথা
+> তোমার চোখের গভীরে আমার সকল নীরবতা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
