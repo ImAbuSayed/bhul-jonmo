@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bhul-jonmo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Bhul Jonmo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhul-jonmo/) |
+| **Get License** | [Music Rights & Licensing for Bhul Jonmo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhul-jonmo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2327)
 
 ---
 
