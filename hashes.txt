@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bhul Jonmo
+
+This log tracks the cryptographic history and versioning for the song **Bhul Jonmo** (bhul-jonmo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T20:20:41.666847 | `v1` | `17414bd49099ae717b2d15011e6f2fafd6619176696989611f9922342f93822f` | `61769316fa6b97fd347c45b77cbe10f6909394426af584915951c51ba1037754` | `2026-05-28_bhul-jonmo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
